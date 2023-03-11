@@ -1,20 +1,17 @@
-import React from"react";
-import { Component } from "react";
-import Nav from "./Nav";
-export default  class App extends Component{
-// import Nav from "./Nav";
-// import Netflix from "./Netfilx";
-// import Axisbank from './Axisbank';
-// const App=()=>{
-    render(){
+import React from "react";
+import Course from './components/Course';
+const App=()=>
+{
     return(
-        <div>
-            {/* <Netflix/> */}  {/* <Axisbank/> */}
-            {/* <Nav data="Rahul" /> */}
-            <Nav data="hello" />
-        </div>
-    )
-}
-}
+<>
+<Course courseDetails={{
+ courseName:"JAVA FULL STACK",
+ courseAvail: true,
+ courseDuration: "3 months"
 
-// export default App
+}}/>
+</>
+    )
+
+}
+export default App
