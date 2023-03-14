@@ -1,0 +1,29 @@
+[
+    {
+        "studentname":"Rahul",
+        "studentid":"123",
+        "studentcourse":"MERN FULL STACK",
+        "studentphoto":"https://media.licdn.com/dms/image/C5603AQFJUi1-DyzKjA/profile-displayphoto-shrink_800_800/0/1663303406844?e=2147483647&v=beta&t=LhxtRb2LAAVOUDtpqVZ-CVACpuReU1fP48H4t_GNhxI"
+
+    },
+    {
+    "studentname":"Chaitra",
+        "studentid":"143",
+        "studentcourse":"MERN FULL STACK",
+        "studentphoto":"https://e1.pxfuel.com/desktop-wallpaper/955/15/desktop-wallpaper-barbie-doll-face-barbie-dolls.jpg"
+    },
+    {
+        "studentname":"Jackson",
+        "studentid":"193",
+        "studentcourse":"JAVA FULL STACK",
+        "studentphoto":"https://yt3.googleusercontent.com/drQOo1IcB7X_gA54Wdi4QHd1PBDbL3sD__6c_-PcFEccFzjeH0o4qYDdVvSa3GEuDFAQd95r1Q=s900-c-k-c0x00ffffff-no-rj"
+    },
+    {
+        "studentname":"Upendra",
+        "studentid":"129",
+        "studentcourse":"JAVA FULL STACK",
+        "studentphoto":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcST3Z2ZiKgvDkWJfV2JgZIN-UJYCoKSGVSVXw&usqp=CAU"
+    }
+
+
+]
