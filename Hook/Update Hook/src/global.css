@@ -1,0 +1,29 @@
+
+.btnBlock{
+    background-color:rgb(83, 185, 122);
+    border: none;
+    color: white;
+    padding: 16px 32px;
+    text-align: center;
+    font-size: 16px;
+    margin: 4px 2px;
+    opacity: 0.6;
+    transition: 0.3s;
+    display: inline-block;
+    text-decoration:none;
+    cursor: pointer; 
+    
+   
+}
+ .btnBlock:hover{
+    opacity: 1;
+}
+
+.mainBlock{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    top: 20px;
+    height: 100vh;
+}
